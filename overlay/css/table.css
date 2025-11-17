@@ -88,29 +88,29 @@
   opacity: var(--gauge-opacity);
 }
 .class-gld .gauge,
-.class-gla .gauge, .class-pld .gauge { background: var(--pld); }
-.class-mrd .gauge, .class-war .gauge { background: var(--war); }
+.class-gla .gauge, .class-shieldknight .gauge { background: var(--pld); }
+.class-mrd .gauge, .class-heavyguardian .gauge { background: var(--war); }
 .class-drk .gauge { background: var(--drk); }
 .class-gnb .gauge { background: var(--gnb); }
 
 .class-pgl .gauge, .class-mnk .gauge { background: var(--mnk); }
-.class-lnc .gauge, .class-drg .gauge { background: var(--drg); }
+.class-lnc .gauge, .class-windknight .gauge { background: var(--drg); }
 .class-rpr .gauge { background: var(--rpr); }
 .class-sge .gauge { background: var(--sge); }
 .class-vpr .gauge { background: var(--vpr); }
 .class-pct .gauge { background: var(--pct); }
-.class-arc .gauge, .class-brd .gauge { background: var(--brd); }
+.class-arc .gauge, .class-marksman .gauge { background: var(--brd); }
 .class-rog .gauge, .class-nin .gauge { background: var(--nin); }
-.class-acn .gauge, .class-smn .gauge { background: var(--smn); }
-.class-thm .gauge, .class-blm .gauge { background: var(--blm); }
+.class-acn .gauge, .class-firewarrior .gauge { background: var(--smn); }
+.class-thm .gauge, .class-frostmage .gauge { background: var(--blm); }
 .class-mch .gauge { background: var(--mch); }
-.class-sam .gauge { background: var(--sam); }
+.class-stormblade .gauge { background: var(--sam); }
 .class-rdm .gauge { background: var(--rdm); }
 .class-blu .gauge { background: var(--blu); }
 .class-dnc .gauge { background: var(--dnc); }
 
-.class-cnj .gauge, .class-whm .gauge { background: var(--whm); }
-.class-sch .gauge { background: var(--sch); }
+.class-cnj .gauge, .class-verdantoracle .gauge { background: var(--whm); }
+.class-beatperformer .gauge { background: var(--sch); }
 .class-ast .gauge { background: var(--ast); }
 
 /* pets */
