@@ -89,29 +89,29 @@
   opacity: var(--gauge-opacity);
 }
 .class-gld .gauge,
-.class-gla .gauge, .class-shieldknight .gauge { background: var(--pld); }
-.class-mrd .gauge, .class-heavyguardian .gauge { background: var(--war); }
+.class-gla .gauge, .class-shieldknight .gauge { background: var(--shieldknight); }
+.class-mrd .gauge, .class-heavyguardian .gauge { background: var(--heavyguardian); }
 .class-drk .gauge { background: var(--drk); }
 .class-gnb .gauge { background: var(--gnb); }
 
 .class-pgl .gauge, .class-mnk .gauge { background: var(--mnk); }
-.class-lnc .gauge, .class-windknight .gauge { background: var(--drg); }
+.class-lnc .gauge, .class-windknight .gauge { background: var(--windknight); }
 .class-rpr .gauge { background: var(--rpr); }
 .class-sge .gauge { background: var(--sge); }
 .class-vpr .gauge { background: var(--vpr); }
 .class-pct .gauge { background: var(--pct); }
-.class-arc .gauge, .class-marksman .gauge { background: var(--brd); }
+.class-arc .gauge, .class-marksman .gauge { background: var(--marksman); }
 .class-rog .gauge, .class-nin .gauge { background: var(--nin); }
-.class-acn .gauge, .class-firewarrior .gauge { background: var(--smn); }
-.class-thm .gauge, .class-frostmage .gauge { background: var(--blm); }
+.class-acn .gauge, .class-firewarrior .gauge { background: var(--firewarrior); }
+.class-thm .gauge, .class-frostmage .gauge { background: var(--frostmage); }
 .class-mch .gauge { background: var(--mch); }
-.class-stormblade .gauge { background: var(--sam); }
+.class-stormblade .gauge { background: var(--stormblade); }
 .class-rdm .gauge { background: var(--rdm); }
 .class-blu .gauge { background: var(--blu); }
 .class-dnc .gauge { background: var(--dnc); }
 
-.class-cnj .gauge, .class-verdantoracle .gauge { background: var(--whm); }
-.class-beatperformer .gauge { background: var(--sch); }
+.class-cnj .gauge, .class-verdantoracle .gauge { background: var(--verdantoracle); }
+.class-beatperformer .gauge { background: var(--beatperformer); }
 .class-ast .gauge { background: var(--ast); }
 
 /* pets */

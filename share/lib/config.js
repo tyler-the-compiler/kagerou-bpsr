@@ -138,26 +138,26 @@ const CONFIG_DEFAULT = {
   color: {
     'gauge-default': '#444',
     'gauge-opacity': '1',
-    pld: 'rgb(21, 28, 100)', // Indigo 900 (B -10%)
-    war: 'rgb(153, 23, 23)', // Red 900 (B -10%)
+    shieldknight: 'rgb(217, 255, 0)', // light
+    heavyguardian: 'rgb(110, 66, 0)', // earth
     drk: 'rgb(136, 14, 79)', // Pink 900
     gnb: 'rgb(78, 52, 46)', // Brown 800
     mnk: 'rgb(255, 152, 0)', // Orange 500
-    drg: 'rgb(63, 81, 181)', // Indigo 500
-    brd: 'rgb(158, 157, 36)', // Lime 800
+    windknight: 'rgb(0, 255, 149)', // wind
+    marksman: 'rgb(217, 255, 0)', // light
     nin: 'rgb(211, 47, 47)', // Red 700
     rpr: 'rgb(254, 179, 0)', // Amber 600
     vpr: 'rgb(216, 67, 21)', // Deep Orange 800
-    smn: 'rgb(46, 125, 50)', // Green 800
-    blm: 'rgb(126, 87, 194)', // Deep Purple 400
+    firewarrior: 'rgb(231, 0, 0)', // fire
+    frostmage: 'rgb(0, 55, 173)', // water
     mch: 'rgb(0, 151, 167)', // Cyan 700
     rdm: 'rgb(233, 30, 99)', // Pink 500
     blu: 'rgb(0, 185, 247)', // Light Blue 500
     pct: 'rgb(253, 216, 53)', // Yellow 600
     dnc: 'rgb(244, 143, 177)', // Pink 200
-    sam: 'rgb(255, 202, 40)', // Amber 400
-    whm: 'rgb(117, 117, 117)', // Gray 600
-    sch: 'rgb(121, 134, 203)', // Indigo 300
+    stormblade: 'rgb(161, 3, 252)', // lightning
+    verdantoracle: 'rgb(6, 187, 0)', // forest
+    beatperformer: 'rgb(231, 0, 0)', // fire
     ast: 'rgb(121, 85, 72)', // Brown 500
     sge: 'rgb(79, 195, 247)', // Light Blue 300
     'smn-pet': 'rgba(46, 125, 50, 0.5)',
