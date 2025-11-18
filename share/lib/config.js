@@ -42,6 +42,7 @@ const CONFIG_DEFAULT = {
       col: [
         'i.icon',
         'i.name',
+        'i.fightpoint',
         'deal.pct',
         'deal.per_second',
         'deal.critical',
@@ -93,6 +94,7 @@ const CONFIG_DEFAULT = {
     '_i-rank': 2,
     '_i-owner': 6,
     '_i-name': 6,
+    '_i-fightpoint': 3,
     '_deal-total': 4.5,
     '_deal-per_second': 3.5,
     '_deal-pct': 2,
@@ -106,6 +108,7 @@ const CONFIG_DEFAULT = {
     '_deal-crit_direct': 2.5,
     '_deal-crittypes': 4,
     '_deal-critpcts': 6,
+    '_deal-luckyhit': 6,
     '_deal-max': 2.5,
     '_deal-maxhit': 7,
     '_deal-maxskill': 5,

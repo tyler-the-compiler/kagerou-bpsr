@@ -22,6 +22,7 @@
 .flex-column-i-rank             { width: var(--_i-rank)rem; }
 .flex-column-i-owner            { width: var(--_i-owner)rem; }
 .flex-column-i-name             { width: var(--_i-name)rem; }
+.flex-column-i-fightpoint       { width: var(--_i-fightpoint)rem; }
 .flex-column-deal-total         { width: var(--_deal-total)rem; }
 .flex-column-deal-per-second    { width: var(--_deal-per_second)rem; }
 .flex-column-deal-pct           { width: var(--_deal-pct)rem; }
